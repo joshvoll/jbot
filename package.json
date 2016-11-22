@@ -1,0 +1,10 @@
+{
+  "name": "slack_qcr",
+  "version": "0.0.1",
+  "description": "Slack bot for qcr",
+  "dependencies": {
+    "async": "^2.1.2",
+    "request": "^2.79.0",
+    "splunk-sdk": "^1.8.1"
+  }
+}
